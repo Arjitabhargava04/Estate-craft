@@ -1,4 +1,4 @@
-# Abhay Apartments — Ultra-Premium Real Estate Showcase
+# Arjita Apartments — Ultra-Premium Real Estate Showcase
 
 A state-of-the-art, high-performance real estate digital experience built with a focus on high-end architectural aesthetics, silky-smooth motion, and industry-leading performance.
 
