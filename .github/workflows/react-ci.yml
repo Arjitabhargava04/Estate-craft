@@ -1,0 +1,12 @@
+name: React CI Pipeline
+
+on:
+  push:
+
+jobs:
+  first-job:
+   runs-on: ubuntu-latest
+
+  steps:
+    - name: Print welcome message    
+      run: echo "Hello Arjita, My first Github action is running."
