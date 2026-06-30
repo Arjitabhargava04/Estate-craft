@@ -5,8 +5,8 @@ on:
 
 jobs:
   first-job:
-   runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-  steps:
-    - name: Print welcome message    
-      run: echo "Hello Arjita, My first Github action is running."
+    steps:
+      - name: Print Welcome Message
+        run: echo "Hello Arjita! My first GitHub Action is running."
